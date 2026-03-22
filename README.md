@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Block-Wise Quizz Dapp<br>👯 I’m looking to collaborate on Ethereum & Aptos Ecosystem<br>🤝 I’m looking for help with System Design [SDE]<br>🌱 I’m currently learning zk & linear algebra<br>💬 Ask me about memecoins & HyperEVM<br>⚡ Fun fact: My codes work better with coffee
+🔭 I’m currently working on Ai-Agents<br>👯 I’m looking to collaborate on Ethereum <br>🤝 I’m looking for help with System Design [SDE]<br>🌱 I’m currently learning HyperEVM<br>
 
 
 ## 🌐 Socials:
