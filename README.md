@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ai-Agents<br>👯 I’m looking to collaborate on Ethereum <br>🤝 I’m looking for help with System Design [SDE]<br>🌱 I’m currently learning HyperEVM<br>
+🔭 I’m currently working on Ai-Agents<br>👯 I’m looking to collaborate on Data Structures <br>🤝 I’m looking for help with System Design [SDE]<br>🌱 I’m currently learning HyperEVM<br>
 
 
 ## 🌐 Socials:
